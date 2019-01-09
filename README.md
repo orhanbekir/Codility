@@ -1,6 +1,8 @@
 # Codility
-Codility C#  Solutions
+Codility C# Solutions
+
 https://app.codility.com/c/run/trainingRHZR6A-6DM/
+
 Max Counter Ploblem
 You are given N counters, initially set to 0, and you have two possible operations on them:
 
