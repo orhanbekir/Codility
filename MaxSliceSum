@@ -23,6 +23,9 @@
 //each element of array A is an integer within the range [−1,000,000..1,000,000];
 //the result will be an integer within the range [−2,147,483,648..2,147,483,647].
 
+//Task score %100
+https://app.codility.com/demo/results/training94UQQN-GJY/
+
 //--------------------------------- Start C# Solution ------------------------------------
 using System;
 
